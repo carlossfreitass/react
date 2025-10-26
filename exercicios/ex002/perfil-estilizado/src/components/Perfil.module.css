@@ -1,0 +1,15 @@
+.cardContainer {
+    border: 1px solid rgba(0, 0, 0, 0.426);
+    box-shadow: 2px 2px 14px rgba(0, 0, 0, 0.395);
+}
+
+.cardDestaque {
+    border: 1px solid #FFD700;
+    box-shadow: 2px 2px 14px #ebb86682;
+}
+
+.imagem {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
