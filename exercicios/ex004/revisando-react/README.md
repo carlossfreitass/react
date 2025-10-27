@@ -9,7 +9,7 @@ Author: Carlos Freitas
 Este exercício tem como objetivo revisar todo o conteúdo aprendido em React durante o curso, devido à longa pausa por projetos pessoais da escola.
 
 ## Objetivo
-O exercício teve como finalidade reforçar a estrutura básica de um componente React, a passagem de dados entre componentes e o manuseio de eventos através de funções, tornado a aplicação interativo e dinâmica.
+O exercício teve como finalidade reforçar a estrutura básica de um componente React, a passagem de dados entre componentes e o manuseio de eventos através de funções.
 
 ## Como executar
 Para rodar este exercício localmente:
