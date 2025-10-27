@@ -1,7 +1,9 @@
 # Lista de Produtos
 Data: 03/10/2025
 
-Tema: Props e CSS Modules
+Tema: JSX, Props e CSS Modules
+
+Author: Carlos Freitas
 
 ## Descrição
 Este exercício tem como objetivo revisar os conceitos aprendidos de Props e CSS Modules no React.

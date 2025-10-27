@@ -1,7 +1,9 @@
 # Perfil Estilizado
 Data: 25/09/2025
 
-Tema: CSS Modules
+Tema: JSX, Props e CSS Modules
+
+Author: Carlos Freitas
 
 ## Descrição
 Este exercício tem como objetivo praticar a utilização de CSS Modules nos projetos de React.

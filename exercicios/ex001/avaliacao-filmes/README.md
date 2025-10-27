@@ -1,7 +1,9 @@
 # Avaliação de Filmes
 Data: 23/09/2025
 
-Tema: Props
+Tema: JSX e Props
+
+Author: Carlos Freitas
 
 ## Descrição
 Este exercício tem como objetivo praticar a utilização do props e sua desestruturação.
