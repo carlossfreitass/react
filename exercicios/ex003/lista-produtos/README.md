@@ -1,4 +1,4 @@
-## Lista de Produtos
+# Lista de Produtos
 Data: 03/10/2025
 
 Tema: Props e CSS Modules
