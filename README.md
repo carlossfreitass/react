@@ -1,12 +1,13 @@
 # Curso de React
 Aprendendo a biblioteca do JavaScript: React
+
 Author: Carlos Freitas
 
-# Ferramentas Utilizadas
+## Ferramentas Utilizadas
 * React
 * JavaScript
 * HTML5
 * CSS3
 
-# Créditos
+## Créditos
 * Matheus Battisti
