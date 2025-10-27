@@ -10,4 +10,5 @@ Este exercício tem como objetivo praticar a utilização do props e sua desestr
 Para rodar este exercício localmente:
 
 `npm install`
+
 `npm start`
