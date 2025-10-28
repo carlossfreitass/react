@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  font-size: 19px;
+  font-family: "Nunito", sans-serif;
+}
+
+button, input {
+  font-size: 19px;
+}
+
+textarea {
+  width: 400px;
+  height: 200px;
+  text-align: center;
+}
