@@ -11,6 +11,7 @@ Aqui estão reunidos todos as práticas que desenvolvo enquanto estudo a bibliot
 * Hooks básicos (`useState`)
 * Renderização Condicional
 * Renderização de Listas
+* State Lift
 
 ## Estrutura do projeto
 Na pasta 'components' estão todos os arquivos referentes aos conceitos estudados.
