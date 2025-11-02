@@ -10,6 +10,7 @@ Aqui estão reunidos todos as práticas que desenvolvo enquanto estudo a bibliot
 * Eventos (`onClick`, `onChange`)
 * Hooks básicos (`useState`)
 * Renderização Condicional
+* Renderização de Listas
 
 ## Estrutura do projeto
 Na pasta 'components' estão todos os arquivos referentes aos conceitos estudados.
