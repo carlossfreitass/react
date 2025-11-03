@@ -12,6 +12,7 @@ Aqui estão reunidos todos as práticas que desenvolvo enquanto estudo a bibliot
 * Renderização Condicional
 * Renderização de Listas
 * State Lift
+* React Router
 
 ## Estrutura do projeto
 Na pasta 'components' estão todos os arquivos referentes aos conceitos estudados.
