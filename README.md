@@ -11,3 +11,4 @@ Author: Carlos Freitas
 
 ## Créditos
 * Matheus Battisti
+* Carlos Eduardo Ferreiro Corrêa
