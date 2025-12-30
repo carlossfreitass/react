@@ -1,11 +1,14 @@
 import './App.css';
-import ClickEvent from './components/ClickEvent';
+import KeyPress from './components/KeyPress';
+import ListForm from './components/ListForm'
 
 function App() {
   return (
     <div className="App">
       <h1>Aprendendo React</h1>
-      <ClickEvent />
+      <ListForm />
+      <hr />
+      <KeyPress />
     </div>
   );
 }
