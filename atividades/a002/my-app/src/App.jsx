@@ -1,14 +1,11 @@
 import './App.css';
-import KeyPress from './components/KeyPress';
-import ListForm from './components/ListForm'
+import Styles from './components/Style';
 
 function App() {
   return (
     <div className="App">
-      <h1>Aprendendo React</h1>
-      <ListForm />
-      <hr />
-      <KeyPress />
+      <h1>Estilização de componentes</h1>
+      <Styles />
     </div>
   );
 }
