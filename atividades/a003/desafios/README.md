@@ -13,10 +13,15 @@ Aqui estão reunidos três desafios que desenvolvi de acordo com o vídeo de Fil
 
 ## Estrutura do Projeto
 ├── node_modules/
+
 ├── public/
+
 ├── src/
+
 ├── package-lock.json
+
 ├── package.json
+
 └── README.md
 
 ## Como Executar
